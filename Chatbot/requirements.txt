@@ -1,0 +1,11 @@
+os
+json
+datetime
+nltk
+ssl
+streamlit
+pillow
+random
+scikit-learn
+pandas
+gTTS
